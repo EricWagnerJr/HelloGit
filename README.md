@@ -1,2 +1,2 @@
 # HelloGit
-#THis is to test committing on Github
+This is to test committing on Github
